@@ -1,0 +1,23 @@
+{
+  "name": "go-mailer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FrankIglesias/go-mailer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FrankIglesias/go-mailer/issues"
+  },
+  "homepage": "https://github.com/FrankIglesias/go-mailer#readme",
+  "dependencies": {
+    "@contentful/rich-text-html-renderer": "^14.1.1",
+    "contentful": "^7.14.6"
+  }
+}

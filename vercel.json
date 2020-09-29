@@ -1,7 +1,7 @@
 {
   "functions": {
-    "api/index.go": {
-      "includeFiles": "api/**"
+    "api/**.js": {
+      "includeFiles": "services/**"
     }
   },
   "headers": [
